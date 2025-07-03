@@ -16,7 +16,7 @@ def plot_data_points(X, idx):
     c = cmap(idx)
     
     # plots data points in X, coloring them so that those with the same
-    # index assignments in idx have the same color
+    # index assignments in idx have the same colour
     plt.scatter(X[:, 0], X[:, 1], facecolors='none', edgecolors=c, linewidth=0.1, alpha=0.7)
 
 def plot_progress_kMeans(X, centroids, previous_centroids, idx, K, i):
