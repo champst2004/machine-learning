@@ -51,11 +51,6 @@ The specialization consists of **three courses** covering foundational to advanc
 
 ---
 
-
----
-
-### **Part 5 — Certificates & Acknowledgements**
-
 ## 📜 Certificate Links
 - [Course 1 Certificate](https://www.coursera.org/account/accomplishments/verify/YVFZ39MR6ZR9)
 - [Course 2 Certificate](https://www.coursera.org/account/accomplishments/verify/FHZUA760R3NS)
